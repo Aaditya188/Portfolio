@@ -1,0 +1,2 @@
+.uses{--maxWidthL:var(--maxWidthM)}.uses ul{padding-left:1.4em}.uses li{margin-bottom:.6em;list-style-type:square;padding-left:.4em}.uses__section{opacity:0;animation:fade-in 1s ease 1s forwards}.table{border-collapse:collapse;width:100%}.table__row{--rowBorder:1px solid rgb(var(--rgbText)/0.2);border-top:var(--rowBorder)}.table__row:last-child{border-bottom:var(--rowBorder)}.table__cell{padding-right:var(--spaceXL);padding-top:var(--spaceM);padding-bottom:var(--spaceM)}.table__cell:last-child{padding-right:0}
+/*# sourceMappingURL=10.332b5734.chunk.css.map */
