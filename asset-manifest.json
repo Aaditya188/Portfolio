@@ -8,18 +8,18 @@
     "static/js/2.f2d201b7.chunk.js": "/static/js/2.f2d201b7.chunk.js",
     "static/js/2.f2d201b7.chunk.js.map": "/static/js/2.f2d201b7.chunk.js.map",
     "main.css": "/static/css/main.47ac3972.chunk.css",
-    "main.js": "/static/js/main.d1af56d2.chunk.js",
-    "main.js.map": "/static/js/main.d1af56d2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0e480d2b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0e480d2b.js.map",
+    "main.js": "/static/js/main.2aa79a72.chunk.js",
+    "main.js.map": "/static/js/main.2aa79a72.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cef11802.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cef11802.js.map",
     "static/js/5.8d834818.chunk.js": "/static/js/5.8d834818.chunk.js",
     "static/js/5.8d834818.chunk.js.map": "/static/js/5.8d834818.chunk.js.map",
     "static/css/6.02528a26.chunk.css": "/static/css/6.02528a26.chunk.css",
     "static/js/6.4bb69475.chunk.js": "/static/js/6.4bb69475.chunk.js",
     "static/js/6.4bb69475.chunk.js.map": "/static/js/6.4bb69475.chunk.js.map",
     "static/css/7.5005e7bd.chunk.css": "/static/css/7.5005e7bd.chunk.css",
-    "static/js/7.af199d0b.chunk.js": "/static/js/7.af199d0b.chunk.js",
-    "static/js/7.af199d0b.chunk.js.map": "/static/js/7.af199d0b.chunk.js.map",
+    "static/js/7.13d0acdc.chunk.js": "/static/js/7.13d0acdc.chunk.js",
+    "static/js/7.13d0acdc.chunk.js.map": "/static/js/7.13d0acdc.chunk.js.map",
     "static/css/8.5d194e80.chunk.css": "/static/css/8.5d194e80.chunk.css",
     "static/js/8.51e494e4.chunk.js": "/static/js/8.51e494e4.chunk.js",
     "static/js/8.51e494e4.chunk.js.map": "/static/js/8.51e494e4.chunk.js.map",
@@ -81,6 +81,7 @@
     "static/media/notfound.ced869d1.mp4": "/static/media/notfound.ced869d1.mp4",
     "static/media/pause.b5d4d421.svg": "/static/media/pause.b5d4d421.svg",
     "static/media/play.e3a789e7.svg": "/static/media/play.e3a789e7.svg",
+    "static/media/portfolio.b8fbc6df.svg": "/static/media/portfolio.b8fbc6df.svg",
     "static/media/send.bd987e99.svg": "/static/media/send.bd987e99.svg",
     "static/media/slice-annotation-large.a2ac9ef6.png": "/static/media/slice-annotation-large.a2ac9ef6.png",
     "static/media/slice-annotation.1bc3729c.png": "/static/media/slice-annotation.1bc3729c.png",
@@ -145,9 +146,9 @@
     "static/media/volkihar-slide-3.6156e25e.jpg": "/static/media/volkihar-slide-3.6156e25e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e480d2b.js",
+    "static/js/runtime-main.cef11802.js",
     "static/js/5.8d834818.chunk.js",
     "static/css/main.47ac3972.chunk.css",
-    "static/js/main.d1af56d2.chunk.js"
+    "static/js/main.2aa79a72.chunk.js"
   ]
 }
